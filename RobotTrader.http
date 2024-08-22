@@ -1,0 +1,6 @@
+@RobotTrader_HostAddress = http://localhost:5149
+
+GET {{RobotTrader_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
