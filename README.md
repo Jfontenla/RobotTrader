@@ -1,2 +1,5 @@
 # RobotTrader
-public project to learn
+jfgazpractice@outlook.com
+
+RobotTraderAdmin
+RobotTrader123
